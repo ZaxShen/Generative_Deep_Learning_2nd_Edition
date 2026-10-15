@@ -4,6 +4,8 @@ torchvision>=0.17
 lightning>=2.2
 transformers>=5.0
 accelerate>=0.30
+# Keras 3 (installed with TensorFlow >= 2.16) loads the built-in datasets
+keras>=3.0
 tensorboard
 numpy
 matplotlib
