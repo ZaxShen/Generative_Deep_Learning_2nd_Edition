@@ -1,0 +1,14 @@
+# Dependencies for the *_pytorch, *_lightning and *_huggingface notebooks
+torch>=2.2
+torchvision>=0.17
+lightning>=2.2
+transformers>=5.0
+accelerate>=0.30
+tensorboard
+numpy
+matplotlib
+scipy
+scikit-learn
+pandas
+music21
+jupyterlab

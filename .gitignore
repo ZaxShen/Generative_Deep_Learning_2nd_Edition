@@ -107,3 +107,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+
+# PyTorch Lightning default log dir
+lightning_logs/
