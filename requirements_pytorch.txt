@@ -1,0 +1,12 @@
+# Dependencies for the *_pytorch.ipynb and *_lightning.ipynb notebooks
+torch>=2.2
+torchvision>=0.17
+lightning>=2.2
+tensorboard
+numpy
+matplotlib
+scipy
+scikit-learn
+pandas
+music21
+jupyterlab
