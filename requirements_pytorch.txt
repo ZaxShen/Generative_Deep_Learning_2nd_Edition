@@ -1,7 +1,9 @@
-# Dependencies for the *_pytorch.ipynb and *_lightning.ipynb notebooks
+# Dependencies for the *_pytorch, *_lightning and *_huggingface notebooks
 torch>=2.2
 torchvision>=0.17
 lightning>=2.2
+transformers>=4.40
+accelerate>=0.30
 tensorboard
 numpy
 matplotlib
